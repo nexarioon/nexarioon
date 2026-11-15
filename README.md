@@ -1,41 +1,78 @@
-# Fendi Permadi
+<div align="center">
 
-Mahasiswa **S1 Sistem Informasi**, Fakultas Ilmu Komputer, **UPNVJ** (NIM 2310512093).
-Fokus di pengembangan web full-stack — dari skema database dan API sampai UI-nya — dengan minat khusus pada penerapan LLM di aplikasi nyata.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Fendi+Permadi;Full-Stack+Web+Developer;Building+with+LLMs+%26+Cloudflare" alt="Fendi Permadi" />
 
-Saat ini mengerjakan skripsi: **SIKOP**, sistem informasi koperasi simpan pinjam yang dimigrasikan dari CodeIgniter/PHP ke React + Express di Cloudflare Workers + D1, dengan fitur pembacaan kartu angsuran memakai Gemini.
+**Information Systems student at UPNVJ** · full-stack web developer · LLM integrations
 
----
+[![Followers](https://img.shields.io/github/followers/nexarioon?label=Followers&style=flat-square&color=36BCF7)](https://github.com/nexarioon?tab=followers)
+[![Repos](https://img.shields.io/badge/Repositories-27-36BCF7?style=flat-square&logo=github)](https://github.com/nexarioon?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=nexarioon&label=Profile+views&color=36BCF7&style=flat-square)](https://github.com/nexarioon)
 
-## Yang biasa saya pakai
-
-| Area | Teknologi |
-|---|---|
-| Frontend | React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, DaisyUI |
-| Backend | Express, Hono, Node.js, REST API, JWT |
-| Deploy & data | Cloudflare Workers, Cloudflare D1, Prisma, SQLite, MySQL |
-| Lain-lain | Python (FastAPI, SQLAlchemy), PHP, TensorFlow.js, Gemini API |
-| Pengujian | Vitest, Playwright, GitHub Actions |
+</div>
 
 ---
 
-## Proyek pilihan
+## 👋 About me
 
-| Repo | Ringkasan |
-|---|---|
-| [research-finder](https://github.com/nexarioon/research-finder) | Aplikasi FastAPI untuk menemukan dan menganalisis usaha lokal sebagai objek penelitian — scraping, SQLAlchemy async, agen LLM. |
-| [portofolio](https://github.com/nexarioon/portofolio) | Website portofolio pribadi (React + Vite + HeroUI + Tailwind v4), deploy Netlify. |
-| [bookingin](https://github.com/nexarioon/bookingin) | Aplikasi booking full-stack: React + Vite di depan, Express + SQLite + JWT di belakang. |
-| [bmj-compro](https://github.com/nexarioon/bmj-compro) | Company profile: React 19 + Tailwind v4 + shadcn/ui, backend Hono di Cloudflare Workers. |
-| [UAS-MPB](https://github.com/nexarioon/UAS-MPB) | Otomasi proses Warehouse Management System dengan CIB Seven (Camunda 7) — BPMN, DMN, notifikasi Discord. |
-| [dicoding-react](https://github.com/nexarioon/dicoding-react) | Forum Diskusi React dengan unit, integration, dan E2E test (Vitest + Playwright) plus CI/CD. |
-
-Repo lain: latihan dan submission kelas (JavaScript, React, back-end), sistem informasi kampus, serta eksperimen kecil — semuanya ada di [tab repositories](https://github.com/nexarioon?tab=repositories).
+- 🎓 Final-year **Information Systems** student at **Universitas Pembangunan Nasional "Veteran" Jakarta** (NIM 2310512093).
+- 💻 I build web applications end to end — database schema, API, and the interface in front of it.
+- 🤖 Currently writing my thesis: **SIKOP**, a savings-and-loan cooperative information system migrated from CodeIgniter/PHP to React + Express on **Cloudflare Workers + D1**, with installment-card extraction powered by **Gemini**.
+- 🌱 Learning: serverless architecture on Cloudflare, LLM-based document extraction, and testing that actually prevents regressions.
+- 🎯 Open to a **software engineering internship / junior developer** role.
 
 ---
 
-## Sedang belajar
+## 🛠 Tech stack
 
-- Arsitektur serverless di Cloudflare (Workers, D1, R2)
-- Evaluasi dan integrasi model LLM untuk tugas ekstraksi dokumen
-- Penulisan pengujian yang benar-benar menjaga regresi, bukan sekadar menaikkan coverage
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,vite,py,fastapi,php,mysql,prisma,cloudflare,git,githubactions" alt="Tech stack" />
+
+</div>
+
+| Area | What I use |
+| :--- | :--- |
+| **Frontend** | React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, DaisyUI, HeroUI |
+| **Backend** | Express, Hono, Node.js, REST API, JWT |
+| **Data & deploy** | Cloudflare Workers, Cloudflare D1, Prisma, SQLite, MySQL |
+| **Also work with** | Python (FastAPI, SQLAlchemy), PHP, TensorFlow.js, Gemini API |
+| **Testing & CI** | Vitest, Playwright, GitHub Actions |
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[research-finder](https://github.com/nexarioon/research-finder)** | Finds and analyses local businesses as research objects — scraping pipeline, async SQLAlchemy, LLM agent. | Python · FastAPI · SQLAlchemy |
+| **[bookingin](https://github.com/nexarioon/bookingin)** | Full-stack booking app with authentication and availability management. | React · Express · SQLite · JWT |
+| **[bmj-compro](https://github.com/nexarioon/bmj-compro)** | Company profile site with an animated frontend and a serverless API. | React 19 · Tailwind v4 · Hono on Workers |
+| **[portofolio](https://github.com/nexarioon/portofolio)** | My personal portfolio site. | React · Vite · HeroUI · Netlify |
+| **[UAS-MPB](https://github.com/nexarioon/UAS-MPB)** | Warehouse management process automation — 5 BPMN models, DMN decision tables, Discord notifications. | CIB Seven (Camunda 7) · BPMN · DMN |
+| **[dicoding-react](https://github.com/nexarioon/dicoding-react)** | Discussion forum app built to practise the full test pyramid and CI/CD. | React · Vitest · Playwright · Actions |
+
+<sub>More coursework and practice repos are pinned below or listed in the [repositories tab](https://github.com/nexarioon?tab=repositories).</sub>
+
+---
+
+## 📊 GitHub in numbers
+
+<div align="center">
+
+<img height="150em" src="https://streak-stats.demolab.com?user=nexarioon&theme=tokyonight&hide_border=true" alt="Streak" />
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexarioon&theme=tokyonight" alt="Most used languages" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexarioon&theme=tokyonight" alt="Profile details" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something
+
+If a repo here is useful to you, a ⭐ is always appreciated.
+Reach me through [GitHub](https://github.com/nexarioon) — issues and discussions on any repo are welcome.
+
+</div>
