@@ -11,11 +11,7 @@ Information Systems student at UPNVJ. I build web applications, mostly from data
 
 ## About
 
-I'm in my final year of the Information Systems programme at Universitas Pembangunan Nasional "Veteran" Jakarta, NIM 2310512093. Most of what I build is web: schema, API, and the interface that sits on top of them.
-
-My thesis is SIKOP, a savings and loan cooperative system migrated from CodeIgniter and MySQL to React and Express on Cloudflare Workers with D1. The part I liked building most is the installment card reader, which uses Gemini to pull fields out of a photographed card.
-
-I'm looking for a software engineering internship or junior developer role.
+I'm in my final year of the Information Systems programme at Universitas Pembangunan Nasional "Veteran" Jakarta. Most of what I build is web: schema, API, and the interface that sits on top of them.
 
 ## Tools I use
 
