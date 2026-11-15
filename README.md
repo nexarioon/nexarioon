@@ -5,7 +5,7 @@
 **Information Systems student at UPNVJ** · full-stack web developer · LLM integrations
 
 [![Followers](https://img.shields.io/github/followers/nexarioon?label=Followers&style=flat-square&color=36BCF7)](https://github.com/nexarioon?tab=followers)
-[![Repos](https://img.shields.io/badge/Repositories-27-36BCF7?style=flat-square&logo=github)](https://github.com/nexarioon?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnexarioon&query=%24.public_repos&label=Public%20repos&style=flat-square&color=36BCF7&logo=github)](https://github.com/nexarioon?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=nexarioon&label=Profile+views&color=36BCF7&style=flat-square)](https://github.com/nexarioon)
 
 </div>
